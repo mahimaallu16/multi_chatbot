@@ -1,4 +1,4 @@
-# Multi-Chatbot Application
+# Amura-Multi-Chatbot Application
 
 A full-stack, enterprise-ready chatbot platform supporting advanced document analysis, real-time chat, and multiple bot types (General, PDF, QA, Excel, Notebook). Built with a modern React frontend and a powerful Python/Flask backend, this application enables users to chat with documents, analyze data, and leverage AI for a variety of use cases.
 
