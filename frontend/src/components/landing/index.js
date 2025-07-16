@@ -1,0 +1,13 @@
+export { default as HeroSection } from './HeroSection';
+export { default as TechStackSection } from './TechStackSection';
+export { default as ModeSwitcherSection } from './ModeSwitcherSection';
+export { default as FeatureHighlightsSection } from './FeatureHighlightsSection';
+export { default as TestimonialsSection } from './TestimonialsSection';
+export { default as AllToolsSection } from './AllToolsSection';
+export { default as PlatformAccessSection } from './PlatformAccessSection';
+export { default as DocumentChatSection } from './DocumentChatSection';
+export { default as InternalDataSection } from './InternalDataSection';
+export { default as PricingSection } from './PricingSection';
+export { default as FAQSection } from './FAQSection';
+export { default as FinalCTASection } from './FinalCTASection';
+export { default as LandingFooter } from './LandingFooter'; 

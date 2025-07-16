@@ -1,0 +1,4 @@
+@keyframes typing-bounce {
+  0%, 80%, 100% { transform: scale(0.7); }
+  40% { transform: scale(1.2); }
+} 
